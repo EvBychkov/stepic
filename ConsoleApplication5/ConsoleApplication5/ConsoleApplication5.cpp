@@ -18,7 +18,7 @@ int main()
 	for (int i = 1; i < a; i++) {
 		int pref = i - 1;
 		if (n[i] > n[pref]) {
-			cout << n[i] << " !! ";
+			cout << n[i] << " ";
 		}
 	}
 	return 0;
