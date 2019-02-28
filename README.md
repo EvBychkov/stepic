@@ -1,3 +1,3 @@
 # stepic
 stepic cpp apps
-Здесь будут решения задач курса https://stepik.org/course/363?auth=registration
+Р—РґРµСЃСЊ Р±СѓРґСѓС‚ СЂРµС€РµРЅРёСЏ Р·Р°РґР°С‡ РєСѓСЂСЃР° https://stepik.org/course/363
