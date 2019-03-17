@@ -17,12 +17,17 @@ int main()
 	for (int i = 0; i < a; i++) {
 		cin >> n[i];
 	}
+	for (int i = 0; i < a; i++) {
+		if (n[i] > 0) {
+			cin >> n[i];
+		}
+	}
 	int smaller;
 	//сортировка
 	for (int i = 0; i < a; i++) {
 		int next = i + 1;
 		if (n[next] < n[i]) {
-			smaller = n[nxt];
+			smaller = n[next];
 		}
 	}
 	cout << smaller;
