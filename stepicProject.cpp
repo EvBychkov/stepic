@@ -11,15 +11,16 @@ int main()
 {
 	int a;
 	cin >> a;
-
 	vector <int> n(a);
-	//считывание
+	//считыван
 	for (int i = 0; i < a; i++) {
 		cin >> n[i];
 	}
+	int positive = 0;
 	for (int i = 0; i < a; i++) {
 		if (n[i] > 0) {
-			cin >> n[i];
+			positive[o] = n[i];
+			o++;
 		}
 	}
 	int smaller;
