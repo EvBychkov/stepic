@@ -17,6 +17,7 @@ int main()
 		cin >> n[i];
 	}
 	int positive = 0;
+
 	for (int i = 0; i < a; i++) {
 		if (n[i] > 0) {
 			positive[o] = n[i];
